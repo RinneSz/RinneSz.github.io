@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: intro
 permalink: /
 subtitle: PhD candidate at <a href='https://www.ntu.edu.sg/'>Nanyang Technological University</a>.
 
