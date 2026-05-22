@@ -43,3 +43,23 @@ More broadly, I am interested in developing next-generation recommendation syste
 [//]: # (Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page]&#40;/al-folio/publications/&#41; automatically.)
 
 [//]: # (Link to your social media connections, too. This theme is set up to use [Font Awesome icons]&#40;https://fontawesome.com/&#41; and [Academicons]&#40;https://jpswalsh.github.io/academicons/&#41;, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.)
+
+
+## Services & Awards
+
+
+- **Program Committee & Reviewer**: NeurIPS (2026), AAAI (2026), KDD (2025,2026), ACM MM (2025), CIKM 26, TIFS, DKE, etc.
+
+- 2025 SIGKDD Student Travel Grant
+
+- Nanyang Technological University Research Scholarship
+
+
+[//]: # (## Awards)
+
+[//]: # ()
+[//]: # ()
+[//]: # (- XXX Scholarship, Nanyang Technological University, 202X)
+
+[//]: # ()
+[//]: # (- XXX Award, 202X)
