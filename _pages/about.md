@@ -48,7 +48,7 @@ More broadly, I am interested in developing next-generation recommendation syste
 ## Services & Awards
 
 
-- **Program Committee & Reviewer**: NeurIPS (2026), AAAI (2026), KDD (2025,2026), ACM MM (2025), CIKM (2024,2026), TIFS, DKE, etc.
+- **Program Committee & Reviewer**: NeurIPS (2026), AAAI (2026), KDD (2025,2026), WWW (2025), ACM MM (2025), CIKM (2024,2026), TIFS, DKE, etc.
 
 - 2025 SIGKDD Student Travel Grant.
 
