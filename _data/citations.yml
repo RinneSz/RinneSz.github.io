@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-28'
+  last_updated: '2026-09-04'
 papers:
   CaZg72cAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -54,7 +54,7 @@ papers:
     title: Defense against model extraction attacks on recommender systems
     year: '2024'
   CaZg72cAAAAJ:_FxGoFyzp5QC:
-    citations: 47
+    citations: 49
     title: Mask-based membership inference attacks for retrieval-augmented generation
     year: '2025'
   CaZg72cAAAAJ:eQOLeE2rZwMC:
