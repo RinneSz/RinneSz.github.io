@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-09-04'
+  last_updated: '2026-09-07'
 papers:
   CaZg72cAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -42,11 +42,11 @@ papers:
     title: 'The trojan example: Jailbreaking llms through template filling and unsafety reasoning'
     year: '2025'
   CaZg72cAAAAJ:W7OEmFMy1HYC:
-    citations: 65
+    citations: 66
     title: 'Attention is not the only choice: Counterfactual reasoning for path-based explainable recommendation'
     year: '2024'
   CaZg72cAAAAJ:WF5omc3nYNoC:
-    citations: 17
+    citations: 18
     title: Facet-aware multi-head mixture-of-experts model for sequential recommendation
     year: '2025'
   CaZg72cAAAAJ:Y0pCki6q_DkC:
